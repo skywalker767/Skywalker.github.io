@@ -24,4 +24,19 @@
         <tag>hello my bolg</tag>
       </tags>
   </entry>
+  <entry>
+    <title>博客日志</title>
+    <url>/2021/03/09/%E5%8D%9A%E5%AE%A2%E6%97%A5%E5%BF%97/</url>
+    <content><![CDATA[<h2 id="博客日志"><a href="#博客日志" class="headerlink" title="博客日志"></a>博客日志</h2><h3 id="v1-0"><a href="#v1-0" class="headerlink" title="v1.0"></a>v1.0</h3><blockquote>
+<p>1.更新两篇博客，梦开始了。</p>
+<p>2.更新了归档的背景</p>
+<p>3.字体大小可以改变</p>
+<p>4.博客内可以看到标签</p>
+<p>5.<del>增加了网站背景</del></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
 </search>
