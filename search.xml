@@ -3,7 +3,7 @@
   <entry>
     <title>第一篇博客</title>
     <url>/2021/03/09/xin/</url>
-    <content><![CDATA[<pre><code> 弄了一天，这个博客终于像点样子了，以后会持续更新，记下每天的目标（flag ++。
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><pre><code> 弄了一天，这个博客终于像点样子了，以后会持续更新，记下每天的目标（flag ++。
 </code></pre>
 <p>​    第一篇除了和这个世界说hello，更重要是当然是测试啦！</p>
 <p>@<a href="%E7%9B%AE%E5%BD%95">TOP</a></p>
@@ -27,7 +27,7 @@
   <entry>
     <title>八皇后问题，洛谷1219</title>
     <url>/2021/03/10/%E5%85%AB%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98%EF%BC%8C%E6%B4%9B%E8%B0%B71219/</url>
-    <content><![CDATA[<h3 id="P1219-USACO1-5-八皇后-Checker-Challenge"><a href="#P1219-USACO1-5-八皇后-Checker-Challenge" class="headerlink" title="P1219 [USACO1.5]八皇后 Checker Challenge"></a>P1219 [USACO1.5]八皇后 Checker Challenge</h3><blockquote>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="P1219-USACO1-5-八皇后-Checker-Challenge"><a href="#P1219-USACO1-5-八皇后-Checker-Challenge" class="headerlink" title="P1219 [USACO1.5]八皇后 Checker Challenge"></a>P1219 [USACO1.5]八皇后 Checker Challenge</h3><blockquote>
 <p>其实这个题一下子就过了，没什么技术含量，但是为了测试测试博客，还是准备<del>认真</del>的写一写</p>
 </blockquote>
 <ul>
@@ -54,11 +54,37 @@
   <entry>
     <title>博客日志</title>
     <url>/2021/03/09/%E5%8D%9A%E5%AE%A2%E6%97%A5%E5%BF%97/</url>
-    <content><![CDATA[<h2 id="博客日志"><a href="#博客日志" class="headerlink" title="博客日志"></a>博客日志</h2><h3 id="v1-0"><a href="#v1-0" class="headerlink" title="v1.0"></a>v1.0</h3><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="number">1.</span>更新两篇博客，梦开始了。</span><br><span class="line"></span><br><span class="line"><span class="number">2.</span>更新了归档的背景</span><br><span class="line"></span><br><span class="line"><span class="number">3.</span>字体大小可以改变</span><br><span class="line"></span><br><span class="line"><span class="number">4.</span>博客内可以看到标签</span><br><span class="line"></span><br><span class="line"><span class="number">5.</span>增加了网站背景,但是失败</span><br><span class="line"></span><br><span class="line"><span class="number">6.</span>增加了一个跳动的心</span><br><span class="line"></span><br><span class="line"><span class="number">7.</span>增加了评论功能</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="博客日志"><a href="#博客日志" class="headerlink" title="博客日志"></a>博客日志</h2><h3 id="v1-0"><a href="#v1-0" class="headerlink" title="v1.0"></a>v1.0</h3><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="number">1.</span>更新两篇博客，梦开始了。</span><br><span class="line"></span><br><span class="line"><span class="number">2.</span>更新了归档的背景</span><br><span class="line"></span><br><span class="line"><span class="number">3.</span>字体大小可以改变</span><br><span class="line"></span><br><span class="line"><span class="number">4.</span>博客内可以看到标签</span><br><span class="line"></span><br><span class="line"><span class="number">5.</span>增加了网站背景,但是失败</span><br><span class="line"></span><br><span class="line"><span class="number">6.</span>增加了一个跳动的心</span><br><span class="line"></span><br><span class="line"><span class="number">7.</span>增加了评论功能</span><br></pre></td></tr></table></figure>
 
 <h3 id="v1-1"><a href="#v1-1" class="headerlink" title="v1.1"></a>v1.1</h3><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="number">1.</span>企图添加说说功能，但是失败</span><br><span class="line"></span><br><span class="line"><span class="number">2.</span>打开了简/繁的替换按钮</span><br><span class="line"></span><br><span class="line"><span class="number">3.</span>企图加上卖萌标题，但是失败</span><br><span class="line"></span><br><span class="line"><span class="number">4.</span>鼠标点击特效添加</span><br><span class="line"></span><br><span class="line"><span class="number">5.</span>更新了背景彩带(动态)</span><br><span class="line"></span><br><span class="line"><span class="number">6.</span>修复了大量（确信）的bug</span><br><span class="line">    </span><br><span class="line"><span class="number">7.</span>添加了Pixiv 日榜，但是失败</span><br><span class="line"></span><br><span class="line"><span class="number">8.</span>修复了(<span class="number">6.</span>)修复BUG产生的BUG,标签页,分类页正常.</span><br><span class="line"></span><br><span class="line"><span class="number">9.</span>加了一点点细节</span><br><span class="line"></span><br><span class="line"><span class="number">10.</span>加入KaTex(尚未测试，不知道有没有问题)</span><br><span class="line">    有问题，导致本地也出现问题，已经移除。</span><br></pre></td></tr></table></figure>]]></content>
       <tags>
         <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>洛谷P2392 kkksc03考前临时抱佛脚</title>
+    <url>/2021/03/11/%E6%B4%9B%E8%B0%B7P2392-kkksc03%E8%80%83%E5%89%8D%E4%B8%B4%E6%97%B6%E6%8A%B1%E4%BD%9B%E8%84%9A/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="先留个文件，有空更QwQ"><a href="#先留个文件，有空更QwQ" class="headerlink" title="先留个文件，有空更QwQ"></a>先留个文件，有空更QwQ</h1><h3 id="P2392-kkksc03考前临时抱佛脚"><a href="#P2392-kkksc03考前临时抱佛脚" class="headerlink" title="P2392 kkksc03考前临时抱佛脚"></a>P2392 kkksc03考前临时抱佛脚</h3><ul>
+<li><a href="https://www.luogu.com.cn/problem/P2392">题目链接</a></li>
+</ul>
+<blockquote>
+<p>本来4次DFS,但是写的有些问题，后来在题解中发现，居然用DP写更快，</p>
+<p>大意了阿…而且如果DFS的话，这个数据范围，甚至不用剪枝</p>
+</blockquote>
+<h4 id="解法1：Dp"><a href="#解法1：Dp" class="headerlink" title="解法1：Dp"></a>解法1：Dp</h4><blockquote>
+<p>仔细观察，这个题目，要么用左脑解，要么用右脑解，两个状态，故为01背包。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>动态规划</category>
+        <category>01背包</category>
+      </categories>
+      <tags>
+        <tag>DFS</tag>
+        <tag>图论</tag>
+        <tag>DP</tag>
+        <tag>动态规划</tag>
+        <tag>01背包</tag>
       </tags>
   </entry>
 </search>
