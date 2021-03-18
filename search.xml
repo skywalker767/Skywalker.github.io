@@ -30,21 +30,6 @@
       </tags>
   </entry>
   <entry>
-    <title>博客日志</title>
-    <url>/2021/03/09/%E5%8D%9A%E5%AE%A2%E6%97%A5%E5%BF%97/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="博客日志">博客日志</h2>
-<h3 id="v1-2">v1.2</h3>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="number">1.</span> 博客规划OK（在脑子里）</span><br><span class="line"><span class="number">2.</span> 细节完善了（昨天弄的，今天忘了做了啥）</span><br></pre></td></tr></table></figure>
-<h3 id="v1-1">v1.1</h3>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="number">1.</span>企图添加说说功能，但是失败</span><br><span class="line"><span class="number">2.</span>打开了简/繁的替换按钮</span><br><span class="line"><span class="number">3.</span>企图加上卖萌标题，但是失败</span><br><span class="line"><span class="number">4.</span>鼠标点击特效添加</span><br><span class="line"><span class="number">5.</span>更新了背景彩带(动态)</span><br><span class="line"><span class="number">6.</span>修复了大量（确信）的bug</span><br><span class="line"><span class="number">7.</span>添加了Pixiv 日榜，但是失败</span><br><span class="line"><span class="number">8.</span>修复了(<span class="number">6.</span>)修复BUG产生的BUG,标签页,分类页正常.</span><br><span class="line"><span class="number">9.</span>加了一点点细节</span><br><span class="line"><span class="number">10.</span>加入KaTex(尚未测试，不知道有没有问题)</span><br><span class="line">    有问题，导致本地也出现问题，已经移除。</span><br><span class="line">    -问题解决</span><br></pre></td></tr></table></figure>
-<h3 id="v1-0">v1.0</h3>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="number">1.</span>更新两篇博客，梦开始了。</span><br><span class="line"><span class="number">2.</span>更新了归档的背景</span><br><span class="line"><span class="number">3.</span>字体大小可以改变</span><br><span class="line"><span class="number">4.</span>博客内可以看到标签</span><br><span class="line"><span class="number">5.</span>增加了网站背景,但是失败</span><br><span class="line"><span class="number">6.</span>增加了一个跳动的心</span><br><span class="line"><span class="number">7.</span>增加了评论功能</span><br></pre></td></tr></table></figure>
-]]></content>
-      <tags>
-        <tag>日常</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>第一篇博客</title>
     <url>/2021/03/09/xin/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><pre><code>弄了一天，这个博客终于像点样子了，以后会持续更新，记下每天的目标（flag ++。
@@ -65,6 +50,21 @@
 </ul>
 <center> 测试</center>
 <figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cout</span> &lt;&lt; <span class="string">&quot;text&quot;</span>;</span><br></pre></td></tr></table></figure>
+]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客日志</title>
+    <url>/2021/03/09/%E5%8D%9A%E5%AE%A2%E6%97%A5%E5%BF%97/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="博客日志">博客日志</h2>
+<h3 id="v1-2">v1.2</h3>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="number">1.</span> 博客规划OK（在脑子里）</span><br><span class="line"><span class="number">2.</span> 细节完善了（昨天弄的，今天忘了做了啥）</span><br></pre></td></tr></table></figure>
+<h3 id="v1-1">v1.1</h3>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="number">1.</span>企图添加说说功能，但是失败</span><br><span class="line"><span class="number">2.</span>打开了简/繁的替换按钮</span><br><span class="line"><span class="number">3.</span>企图加上卖萌标题，但是失败</span><br><span class="line"><span class="number">4.</span>鼠标点击特效添加</span><br><span class="line"><span class="number">5.</span>更新了背景彩带(动态)</span><br><span class="line"><span class="number">6.</span>修复了大量（确信）的bug</span><br><span class="line"><span class="number">7.</span>添加了Pixiv 日榜，但是失败</span><br><span class="line"><span class="number">8.</span>修复了(<span class="number">6.</span>)修复BUG产生的BUG,标签页,分类页正常.</span><br><span class="line"><span class="number">9.</span>加了一点点细节</span><br><span class="line"><span class="number">10.</span>加入KaTex(尚未测试，不知道有没有问题)</span><br><span class="line">    有问题，导致本地也出现问题，已经移除。</span><br><span class="line">    -问题解决</span><br></pre></td></tr></table></figure>
+<h3 id="v1-0">v1.0</h3>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="number">1.</span>更新两篇博客，梦开始了。</span><br><span class="line"><span class="number">2.</span>更新了归档的背景</span><br><span class="line"><span class="number">3.</span>字体大小可以改变</span><br><span class="line"><span class="number">4.</span>博客内可以看到标签</span><br><span class="line"><span class="number">5.</span>增加了网站背景,但是失败</span><br><span class="line"><span class="number">6.</span>增加了一个跳动的心</span><br><span class="line"><span class="number">7.</span>增加了评论功能</span><br></pre></td></tr></table></figure>
 ]]></content>
       <tags>
         <tag>日常</tag>
@@ -110,7 +110,6 @@
 <li>思路不一定最优</li>
 <li>如有错误，还请留言指正，在此感谢。</li>
 <li>题目按照选择题格式书写（除部分概念题），部分证明过程省略。</li>
-<li><strong>PS：如果你决定要抄，记得错一两道，直接满分可太明显了喂!</strong></li>
 </ul>
 <h4 id="题目1">题目1</h4>
 <blockquote>
@@ -377,7 +376,7 @@ x - 1 &amp; 0 &amp; -1 &amp; 1  \\
 <p><strong>答案：B</strong></p>
 <h4 id="总结">总结</h4>
 <p>OK，4点前写完了，现在是3:51，还是没睡意，淦！玩游戏去了~~</p>
-<p><strong>再次PS：如果你是抄的，记得错一两道，直接满分可太明显了喂！（<s>明明你26s更离谱好吧</s>）</strong></p>
+<p><strong>PS：如果你是抄的，直接满分可太明显了喂！（<s>明明你26s更离谱好吧</s>）</strong></p>
 ]]></content>
       <categories>
         <category>线性代数</category>
