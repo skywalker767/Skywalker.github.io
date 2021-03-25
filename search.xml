@@ -27,21 +27,6 @@
       </tags>
   </entry>
   <entry>
-    <title>博客日志</title>
-    <url>/2021/03/09/%E5%8D%9A%E5%AE%A2%E6%97%A5%E5%BF%97/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="博客日志">博客日志</h2>
-<h3 id="v1-2">v1.2</h3>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="number">1.</span> 博客规划OK（在脑子里）</span><br><span class="line"><span class="number">2.</span> 细节完善了（昨天弄的，今天忘了做了啥）</span><br></pre></td></tr></table></figure>
-<h3 id="v1-1">v1.1</h3>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="number">1.</span>企图添加说说功能，但是失败</span><br><span class="line"><span class="number">2.</span>打开了简/繁的替换按钮</span><br><span class="line"><span class="number">3.</span>企图加上卖萌标题，但是失败</span><br><span class="line"><span class="number">4.</span>鼠标点击特效添加</span><br><span class="line"><span class="number">5.</span>更新了背景彩带(动态)</span><br><span class="line"><span class="number">6.</span>修复了大量（确信）的bug</span><br><span class="line"><span class="number">7.</span>添加了Pixiv 日榜，但是失败</span><br><span class="line"><span class="number">8.</span>修复了(<span class="number">6.</span>)修复BUG产生的BUG,标签页,分类页正常.</span><br><span class="line"><span class="number">9.</span>加了一点点细节</span><br><span class="line"><span class="number">10.</span>加入KaTex(尚未测试，不知道有没有问题)</span><br><span class="line">    有问题，导致本地也出现问题，已经移除。</span><br><span class="line">    -问题解决</span><br></pre></td></tr></table></figure>
-<h3 id="v1-0">v1.0</h3>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="number">1.</span>更新两篇博客，梦开始了。</span><br><span class="line"><span class="number">2.</span>更新了归档的背景</span><br><span class="line"><span class="number">3.</span>字体大小可以改变</span><br><span class="line"><span class="number">4.</span>博客内可以看到标签</span><br><span class="line"><span class="number">5.</span>增加了网站背景,但是失败</span><br><span class="line"><span class="number">6.</span>增加了一个跳动的心</span><br><span class="line"><span class="number">7.</span>增加了评论功能</span><br></pre></td></tr></table></figure>
-]]></content>
-      <tags>
-        <tag>日常</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>八皇后问题，洛谷1219</title>
     <url>/2021/03/10/%E5%85%AB%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98%EF%BC%8C%E6%B4%9B%E8%B0%B71219/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="P1219-USACO1-5-八皇后-Checker-Challenge">P1219 [USACO1.5]八皇后 Checker Challenge</h3>
@@ -71,6 +56,21 @@
       </tags>
   </entry>
   <entry>
+    <title>博客日志</title>
+    <url>/2021/03/09/%E5%8D%9A%E5%AE%A2%E6%97%A5%E5%BF%97/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="博客日志">博客日志</h2>
+<h3 id="v1-2">v1.2</h3>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="number">1.</span> 博客规划OK（在脑子里）</span><br><span class="line"><span class="number">2.</span> 细节完善了（昨天弄的，今天忘了做了啥）</span><br></pre></td></tr></table></figure>
+<h3 id="v1-1">v1.1</h3>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="number">1.</span>企图添加说说功能，但是失败</span><br><span class="line"><span class="number">2.</span>打开了简/繁的替换按钮</span><br><span class="line"><span class="number">3.</span>企图加上卖萌标题，但是失败</span><br><span class="line"><span class="number">4.</span>鼠标点击特效添加</span><br><span class="line"><span class="number">5.</span>更新了背景彩带(动态)</span><br><span class="line"><span class="number">6.</span>修复了大量（确信）的bug</span><br><span class="line"><span class="number">7.</span>添加了Pixiv 日榜，但是失败</span><br><span class="line"><span class="number">8.</span>修复了(<span class="number">6.</span>)修复BUG产生的BUG,标签页,分类页正常.</span><br><span class="line"><span class="number">9.</span>加了一点点细节</span><br><span class="line"><span class="number">10.</span>加入KaTex(尚未测试，不知道有没有问题)</span><br><span class="line">    有问题，导致本地也出现问题，已经移除。</span><br><span class="line">    -问题解决</span><br></pre></td></tr></table></figure>
+<h3 id="v1-0">v1.0</h3>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="number">1.</span>更新两篇博客，梦开始了。</span><br><span class="line"><span class="number">2.</span>更新了归档的背景</span><br><span class="line"><span class="number">3.</span>字体大小可以改变</span><br><span class="line"><span class="number">4.</span>博客内可以看到标签</span><br><span class="line"><span class="number">5.</span>增加了网站背景,但是失败</span><br><span class="line"><span class="number">6.</span>增加了一个跳动的心</span><br><span class="line"><span class="number">7.</span>增加了评论功能</span><br></pre></td></tr></table></figure>
+]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>洛谷P2392 kkksc03考前临时抱佛脚</title>
     <url>/2021/03/11/%E6%B4%9B%E8%B0%B7P2392-kkksc03%E8%80%83%E5%89%8D%E4%B8%B4%E6%97%B6%E6%8A%B1%E4%BD%9B%E8%84%9A/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1>先留个文件，有空更QwQ</h1>
@@ -97,6 +97,131 @@
         <tag>DP</tag>
         <tag>动态规划</tag>
         <tag>01背包</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>浙江农林大学第二十届程序设计竞赛暨团体程序设计天梯赛选拔赛（同步赛）</title>
+    <url>/2021/03/25/%E6%B5%99%E6%B1%9F%E5%86%9C%E6%9E%97%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%B1%8A%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B%E6%9A%A8%E5%9B%A2%E4%BD%93%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%A4%A9%E6%A2%AF%E8%B5%9B%E9%80%89%E6%8B%94%E8%B5%9B%EF%BC%88%E5%90%8C%E6%AD%A5%E8%B5%9B%EF%BC%89/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><table>
+<thead>
+<tr>
+<th style="text-align:center">题号</th>
+<th style="text-align:center">标题</th>
+<th style="text-align:center">已通过代码</th>
+<th style="text-align:center">通过率</th>
+<th style="text-align:center">我的状态</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">A</td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482/A">来自wzc的简单拓扑dp</a></td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482#submit/%7B%22problemIdFilter%22%3A219967%2C%22statusTypeFilter%22%3A5%7D">点击查看</a></td>
+<td style="text-align:center">196/957</td>
+<td style="text-align:center">未通过</td>
+</tr>
+<tr>
+<td style="text-align:center">B</td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482/B">《可 做 题》</a></td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482#submit/%7B%22problemIdFilter%22%3A219965%2C%22statusTypeFilter%22%3A5%7D">点击查看</a></td>
+<td style="text-align:center">378/949</td>
+<td style="text-align:center">通过</td>
+</tr>
+<tr>
+<td style="text-align:center">C</td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482/C">单位的换算</a></td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482#submit/%7B%22problemIdFilter%22%3A219936%2C%22statusTypeFilter%22%3A5%7D">点击查看</a></td>
+<td style="text-align:center">229/954</td>
+<td style="text-align:center">通过</td>
+</tr>
+<tr>
+<td style="text-align:center">D</td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482/D">涛酱和策策的游戏again（by良心出题人wzc）</a></td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482#submit/%7B%22problemIdFilter%22%3A219897%2C%22statusTypeFilter%22%3A5%7D">点击查看</a></td>
+<td style="text-align:center">29/53</td>
+<td style="text-align:center">未通过</td>
+</tr>
+<tr>
+<td style="text-align:center">E</td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482/E">wzc立志要练好口语！</a></td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482#submit/%7B%22problemIdFilter%22%3A219800%2C%22statusTypeFilter%22%3A5%7D">点击查看</a></td>
+<td style="text-align:center">619/1505</td>
+<td style="text-align:center">通过</td>
+</tr>
+<tr>
+<td style="text-align:center">F</td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482/F">wzc提醒大家仔细读题真的非常重要!</a></td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482#submit/%7B%22problemIdFilter%22%3A219799%2C%22statusTypeFilter%22%3A5%7D">点击查看</a></td>
+<td style="text-align:center">49/447</td>
+<td style="text-align:center">未通过</td>
+</tr>
+<tr>
+<td style="text-align:center">G</td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482/G">男神zyh的青睐</a></td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482#submit/%7B%22problemIdFilter%22%3A219776%2C%22statusTypeFilter%22%3A5%7D">点击查看</a></td>
+<td style="text-align:center">9/43</td>
+<td style="text-align:center">未通过</td>
+</tr>
+<tr>
+<td style="text-align:center">H</td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482/H">学霸大帅哥zyh</a></td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482#submit/%7B%22problemIdFilter%22%3A219740%2C%22statusTypeFilter%22%3A5%7D">点击查看</a></td>
+<td style="text-align:center">21/112</td>
+<td style="text-align:center">未通过</td>
+</tr>
+<tr>
+<td style="text-align:center">I</td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482/I">场地选择</a></td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482#submit/%7B%22problemIdFilter%22%3A219736%2C%22statusTypeFilter%22%3A5%7D">点击查看</a></td>
+<td style="text-align:center">15/80</td>
+<td style="text-align:center">未通过</td>
+</tr>
+<tr>
+<td style="text-align:center">J</td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482/J">传统的延续</a></td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482#submit/%7B%22problemIdFilter%22%3A219735%2C%22statusTypeFilter%22%3A5%7D">点击查看</a></td>
+<td style="text-align:center">150/494</td>
+<td style="text-align:center">通过</td>
+</tr>
+<tr>
+<td style="text-align:center">K</td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482/K">来自良心出题人wzc的简单题</a></td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482#submit/%7B%22problemIdFilter%22%3A219676%2C%22statusTypeFilter%22%3A5%7D">点击查看</a></td>
+<td style="text-align:center">175/561</td>
+<td style="text-align:center">通过</td>
+</tr>
+<tr>
+<td style="text-align:center">L</td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482/L">wzc与小灰</a></td>
+<td style="text-align:center"><a href="https://ac.nowcoder.com/acm/contest/12482#submit/%7B%22problemIdFilter%22%3A219624%2C%22statusTypeFilter%22%3A5%7D">点击查看</a></td>
+<td style="text-align:center">165/541</td>
+<td style="text-align:center">通过</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>反思下自己比赛后半个小时的行为，本来虽然看着A不能做了，但是却打开了游戏，玩了半个小时的原神，谴责下自己。</p>
+<p>未过题目：A ，D  ,  E , F , G ,  H , I</p>
+<p>赛后补不了题目：D,E,F,G,H,I</p>
+</blockquote>
+<h3 id="A-来自wzc的简单拓扑dp">A -来自wzc的简单拓扑dp</h3>
+<blockquote>
+<p>本来想到了迪杰斯特拉，但是又思考到迪杰斯特拉是最短路，就没有写下去，后来学长发我题解，我直接震惊一百年。</p>
+<p>下面记录两个思路。</p>
+</blockquote>
+<p><strong>解法1 - 拓扑dp</strong></p>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="comment">//战斗吧！战斗吧！ </span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> ios ios::sync_with_stdio(false);cin.tie(0);cout.tie(0);</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> debug freopen(<span class="meta-string">&quot;1.in&quot;</span>, <span class="meta-string">&quot;r&quot;</span>, stdin), freopen(<span class="meta-string">&quot;1.out&quot;</span>, <span class="meta-string">&quot;w&quot;</span>, stdout);</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> mm(a, b) memset(a, b, sizeof(a))</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> fi first</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> endl <span class="meta-string">&quot;\n&quot;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> se second</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> PI acos(-1)</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> inf 0x3f3f3f3f</span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="comment">//unordered_map&lt;int , int &gt; bj;//priority_queue&lt;int,vector&lt;int&gt;,less&lt;int&gt; &gt; pq</span></span><br><span class="line"><span class="keyword">typedef</span> <span class="keyword">long</span> <span class="keyword">long</span> ll;</span><br><span class="line"><span class="keyword">typedef</span> <span class="built_in">pair</span>&lt;<span class="keyword">int</span> , <span class="keyword">int</span>&gt; PII;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> in[<span class="number">100005</span>] , n , m;</span><br><span class="line"><span class="built_in">vector</span>&lt;<span class="built_in">vector</span>&lt;<span class="keyword">int</span> &gt; &gt; grape;<span class="comment">//′?′￠í? </span></span><br><span class="line"><span class="built_in">vector</span>&lt;<span class="keyword">int</span> &gt; weight,wpre;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="built_in">scanf</span>(<span class="string">&quot;%d%d&quot;</span>,&amp;n , &amp;m);</span><br><span class="line">	weight.resize(n + <span class="number">1</span>);</span><br><span class="line">	grape.resize(n + <span class="number">1</span>);</span><br><span class="line">	wpre.resize(n + <span class="number">1</span>);</span><br><span class="line">	</span><br><span class="line">	<span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">1</span>;i &lt;= n;i ++)<span class="built_in">scanf</span>(<span class="string">&quot;%d&quot;</span>, &amp;weight[i]);</span><br><span class="line">	</span><br><span class="line">	<span class="keyword">int</span> u , v;</span><br><span class="line">	<span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">0</span>;i &lt; m;i ++)</span><br><span class="line">	&#123;</span><br><span class="line">		<span class="built_in">scanf</span>(<span class="string">&quot;%d%d&quot;</span>,&amp;u,&amp;v);</span><br><span class="line">		in[v]++;</span><br><span class="line">		grape[u].push_back(v);</span><br><span class="line">	&#125; </span><br><span class="line">	</span><br><span class="line">	<span class="built_in">queue</span>&lt;<span class="keyword">int</span>&gt; q;</span><br><span class="line">	<span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">0</span>;i &lt;= n;i ++)<span class="keyword">if</span>(!in[i])q.push(i);</span><br><span class="line">	</span><br><span class="line">	ll ans = <span class="number">0</span>;</span><br><span class="line">	<span class="keyword">while</span>(q.size())</span><br><span class="line">	&#123;</span><br><span class="line">		<span class="keyword">int</span> tp = q.front();</span><br><span class="line">		q.pop();</span><br><span class="line">		</span><br><span class="line">		<span class="keyword">if</span>(wpre[tp] + weight[tp] &gt; ans) ans = wpre[tp] + weight[tp];</span><br><span class="line">		</span><br><span class="line">		<span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">0</span>;i &lt; grape[tp].size();i ++)</span><br><span class="line">		&#123;</span><br><span class="line">			in[grape[tp][i]] --;</span><br><span class="line">			wpre[grape[tp][i]] = max(wpre[grape[tp][i]],wpre[tp] + weight[tp]);</span><br><span class="line">			<span class="keyword">if</span>(in[grape[tp][i]] == <span class="number">0</span>)</span><br><span class="line">			&#123;</span><br><span class="line">				q.push(grape[tp][i]);</span><br><span class="line">			&#125;</span><br><span class="line">		&#125;</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="built_in">printf</span>(<span class="string">&quot;%lld&quot;</span>,ans);</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//4 5</span></span><br><span class="line"><span class="comment">//2 1 1 2</span></span><br><span class="line"><span class="comment">//0 1</span></span><br><span class="line"><span class="comment">//0 2</span></span><br><span class="line"><span class="comment">//1 3</span></span><br><span class="line"><span class="comment">//2 3</span></span><br><span class="line"><span class="comment">//3 4</span></span><br></pre></td></tr></table></figure>
+<p>这种是更新每一个点的前一个点，然后用于更新答案的。</p>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="comment">//战斗吧！战斗吧！ </span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> ios ios::sync_with_stdio(false);cin.tie(0);cout.tie(0);</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> debug freopen(<span class="meta-string">&quot;1.in&quot;</span>, <span class="meta-string">&quot;r&quot;</span>, stdin), freopen(<span class="meta-string">&quot;1.out&quot;</span>, <span class="meta-string">&quot;w&quot;</span>, stdout);</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> mm(a, b) memset(a, b, sizeof(a))</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> fi first</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> endl <span class="meta-string">&quot;\n&quot;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> se second</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> PI acos(-1)</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> inf 0x3f3f3f3f</span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="comment">//unordered_map&lt;int , int &gt; bj;//priority_queue&lt;int,vector&lt;int&gt;,less&lt;int&gt; &gt; pq</span></span><br><span class="line"><span class="keyword">typedef</span> <span class="keyword">long</span> <span class="keyword">long</span> ll;</span><br><span class="line"><span class="keyword">typedef</span> <span class="built_in">pair</span>&lt;<span class="keyword">int</span> , <span class="keyword">int</span>&gt; PII;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> in[<span class="number">100005</span>] , n , m;</span><br><span class="line"><span class="built_in">vector</span>&lt;<span class="built_in">vector</span>&lt;<span class="keyword">int</span> &gt; &gt; grape;<span class="comment">//′?′￠í? </span></span><br><span class="line"><span class="built_in">vector</span>&lt;<span class="keyword">int</span> &gt; weight,f;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="built_in">scanf</span>(<span class="string">&quot;%d%d&quot;</span>,&amp;n , &amp;m);</span><br><span class="line">	weight.resize(n + <span class="number">1</span>);</span><br><span class="line">	grape.resize(n + <span class="number">1</span>);</span><br><span class="line">	f.resize(n + <span class="number">1</span>);</span><br><span class="line">	</span><br><span class="line">	<span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">1</span>;i &lt;= n;i ++)<span class="built_in">scanf</span>(<span class="string">&quot;%d&quot;</span>, &amp;weight[i]);</span><br><span class="line">	</span><br><span class="line">	<span class="keyword">int</span> u , v;</span><br><span class="line">	<span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">0</span>;i &lt; m;i ++)</span><br><span class="line">	&#123;</span><br><span class="line">		<span class="built_in">scanf</span>(<span class="string">&quot;%d%d&quot;</span>,&amp;u,&amp;v);</span><br><span class="line">		in[v]++;</span><br><span class="line">		grape[u].push_back(v);</span><br><span class="line">	&#125; </span><br><span class="line">	</span><br><span class="line">	<span class="built_in">queue</span>&lt;<span class="keyword">int</span>&gt; q;</span><br><span class="line">	<span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">0</span>;i &lt;= n;i ++)<span class="keyword">if</span>(!in[i])q.push(i);</span><br><span class="line">	</span><br><span class="line">	ll ans = <span class="number">0</span>;</span><br><span class="line">	<span class="keyword">while</span>(q.size())</span><br><span class="line">	&#123;</span><br><span class="line">		<span class="keyword">int</span> tp = q.front();</span><br><span class="line">		q.pop();</span><br><span class="line">		</span><br><span class="line">		<span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">0</span>;i &lt; grape[tp].size();i ++)</span><br><span class="line">		&#123;</span><br><span class="line">			in[grape[tp][i]] --;</span><br><span class="line">			f[grape[tp][i]] = max(f[grape[tp][i]] , f[tp] + weight[grape[tp][i]]);</span><br><span class="line">			<span class="keyword">if</span>(in[grape[tp][i]] == <span class="number">0</span>)</span><br><span class="line">			&#123;</span><br><span class="line">				q.push(grape[tp][i]);</span><br><span class="line">			&#125;</span><br><span class="line">		&#125;</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="built_in">printf</span>(<span class="string">&quot;%lld&quot;</span>,f[n]);</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//4 5</span></span><br><span class="line"><span class="comment">//2 1 1 2</span></span><br><span class="line"><span class="comment">//0 1</span></span><br><span class="line"><span class="comment">//0 2</span></span><br><span class="line"><span class="comment">//1 3</span></span><br><span class="line"><span class="comment">//2 3</span></span><br><span class="line"><span class="comment">//3 4</span></span><br></pre></td></tr></table></figure>
+<p>这个是由榜一启发写出来的。感觉更容易理解。</p>
+]]></content>
+      <categories>
+        <category>比赛</category>
+      </categories>
+      <tags>
+        <tag>动态规划</tag>
+        <tag>Dp</tag>
+        <tag>拓扑dp</tag>
       </tags>
   </entry>
   <entry>
