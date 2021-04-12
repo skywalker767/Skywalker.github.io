@@ -71,6 +71,30 @@
       </tags>
   </entry>
   <entry>
+    <title>奇怪的英语单词积累</title>
+    <url>/2021/04/02/%E5%A5%87%E6%80%AA%E7%9A%84%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E7%A7%AF%E7%B4%AF/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
+<p>打比赛总不能题都看不懂,所以没事练CF的时候我尽量人工翻译,记录下一些奇怪的单词.</p>
+</blockquote>
+<hr>
+<h4 id="目前正在学习的单词">目前正在学习的单词</h4>
+<p><strong>lowercase Latin letters</strong> -&gt; 小写的拉丁字母</p>
+<p><strong>equal</strong> -&gt; 相等</p>
+<p><strong>replace a with a2a3…ana2a3…an</strong> -&gt; a更新成(a2a3a4a5…)的数组</p>
+<p><strong>so that the following conditions are me</strong> -&gt;</p>
+<p><strong>greedy</strong> -&gt;</p>
+<p><strong>implementation</strong> -&gt;</p>
+<hr>
+<h4 id="积累下的单词">积累下的单词</h4>
+]]></content>
+      <categories>
+        <category>英语</category>
+      </categories>
+      <tags>
+        <tag>英语</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>树状数组模板总结</title>
     <url>/2021/03/30/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84%E6%A8%A1%E6%9D%BF%E6%80%BB%E7%BB%93/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>树状数组的思想</strong></p>
@@ -79,11 +103,11 @@
 <ul>
 <li>add(x , k) , 表示将序列中第k个sh数加上k.</li>
 </ul>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">add</span><span class="params">(<span class="keyword">int</span> x, <span class="keyword">int</span> k)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i = x; i &lt;= n; i += lowbit(i))</span><br><span class="line">        tr[i] += k;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">add</span><span class="params">(<span class="keyword">int</span> x , <span class="keyword">int</span> k)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="keyword">for</span>(; x &lt;= n ; x += x &amp; -x) tr[x] += k;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <ul>
 <li>ask（x）表示前1 ~ x 的和.</li>
 </ul>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="function">ll <span class="title">ask</span><span class="params">(<span class="keyword">int</span> x)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    ll ans = <span class="number">0</span>;</span><br><span class="line">    </span><br><span class="line">    <span class="keyword">for</span>(; x ;x -= x &amp; -x) ans += tr[x];</span><br><span class="line">    </span><br><span class="line">    <span class="keyword">return</span> sum;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="function">ll <span class="title">ask</span><span class="params">(<span class="keyword">int</span> x)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	ll ans = <span class="number">0</span>;</span><br><span class="line">	</span><br><span class="line">	<span class="keyword">for</span>(; x ; x -= x &amp; -x)ans += tr[x];</span><br><span class="line">	</span><br><span class="line">	<span class="keyword">return</span> ans;	</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>数据结构</category>
       </categories>
